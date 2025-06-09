@@ -1,2 +1,2 @@
 # polls
-A repository of our polls released in CSV format, processed at midnight every day.
+A repository of our polls released in CSV format, processed on Sunday every week.
